@@ -1,0 +1,16 @@
+Category: ANIMALS
+Secret Word: lemur
+Result: Loss
+-----------------------------------
+Category: FRUITS
+Secret Word: blueberry
+Result: Loss
+-----------------------------------
+Category: MONTHS
+Secret Word: april
+Result: Win
+-----------------------------------
+Category: MONTHS
+Secret Word: january
+Result: Loss
+-----------------------------------
